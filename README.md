@@ -2,7 +2,7 @@
 
 Toytale is a full-stack web application that allows families to exchange toys and children's books through donation, trade, or sale. It promotes sustainability, community connection, and joyful reuse — giving preloved items a second life in new hands.
 
->🏆 This project was developed and won 1st place at the **10th Bytes4Future 24-hour Hackathon**.
+> 🏆 This project was developed and won 1st place at the **10th Bytes4Future 24-hour Hackathon**.
 
 ---
 
