@@ -5,6 +5,14 @@ Toytale is a full-stack web application that allows families to exchange toys an
 > 🏆 This project was developed and won 1st place at the **10th Bytes4Future 24-hour Hackathon**.
 
 ---
+## 👥 Project Members
+
+| Name   | Role                        | GitHub Username                          |
+|--------|-----------------------------|-------------------------------------------|
+| João   | Backend & Frontend          | [@joaovieira77](https://github.com/joaovieira77) |
+| Hania  | Frontend                    | [@HaniaA4](https://github.com/HaniaA4)           |
+| Arwa   | Frontend                    | [@arwaaziz32](https://github.com/arwaaziz32)     |
+| Marcus | Design                      | —                                         |
 
 ## 🌍 Overview
 
